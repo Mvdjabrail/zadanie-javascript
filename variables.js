@@ -1,0 +1,10 @@
+let nameOfTheGame ='';
+let gameDescription = '';
+let gameVersion = '';
+let theNameOfTheMainCharacterOfTheGame = '';
+let theNameOfTheGameDeveloper = '';
+let theProgrammingLanguageInWhich = '';
+let languageInWhichTheGameIsWritten = '';
+let theversionpftheprogramminglanguageinwhichthegameiswritten;
+let theNameofTheCardCorrespondingToTheActionOfheGame = '';
+let gameDeveloperWebsiteInterfacelanguage = '';
